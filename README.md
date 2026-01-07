@@ -81,5 +81,5 @@ pip install pygame
 
 ---
 
-**Desenvolvido por:** Robinson Francisco Silva de Mesquita - Projeto Uninter.
+**Desenvolvido por:** Robinson Francisco Silva de Mesquita RU: 4522562 - Projeto Uninter.
 
