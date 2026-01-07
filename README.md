@@ -21,6 +21,12 @@ A pontuação é progressiva de acordo com a dificuldade da operação:
 
 O jogo conta com um **sistema de ranking**, onde as melhores pontuações são salvas localmente no arquivo `scores.json`.
 
+## Video demonstração
+
+Aqui esta o link de um video de demonstração do jogo no youtube:
+
+https://www.youtube.com/watch?v=GD9owQ9Q3Mc
+
 ---
 
 ## 🚀 Como Rodar a Versão Compilada (Pasta `dist`)
