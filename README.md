@@ -1,14 +1,12 @@
-Com certeza! Vou estruturar um `README.md` profissional e organizado para o seu projeto, focado na experiência do usuário e do desenvolvedor.
-
 ---
 
-# Atividade Extensionista: Jogo Matemático
+# Atividade Extensionista Projeto: Jogo Matemático
 
-Este projeto é um jogo educativo desenvolvido em Python para o projeto extensionista da Uninter. O objetivo é desafiar o raciocínio rápido através de cálculos matemáticos divididos por níveis de dificuldade e categorias.
+Este projeto é um jogo educativo desenvolvido em Python para o projeto extensionista da Uninter. O objetivo é desafiar o raciocínio rápido através de cálculos matemáticos divididos por níveis, com tempo de resposta a cada nivel (10 segundos).
 
 ## 🎮 Sobre o Jogo
 
-O jogo consiste em resolver expressões matemáticas para avançar de nível e acumular pontos. São **20 níveis** no total, divididos em blocos de 5 para cada operação aritmética fundamental.
+O jogo consiste em resolver expressões matemáticas para avançar de nível e acumular pontos. São **20 níveis** no total, divididos em blocos de 5 para cada operação aritmética fundamental. Tem-se tela de acerto, tela de erro (corrige a resposta errada) e tela de tempo acabado.
 
 ### Sistema de Pontuação e Níveis
 
@@ -30,8 +28,8 @@ O jogo conta com um **sistema de ranking**, onde as melhores pontuações são s
 Se você deseja apenas jogar sem precisar instalar o Python ou abrir o código, utilize a versão executável:
 
 1. Acesse a pasta `dist` no diretório do projeto.
-2. Localize o arquivo executável (geralmente `main.exe` no Windows).
-3. **Importante:** Certifique-se de que a pasta `sons` (se houver dependência de áudio externa) e o arquivo `scores.json` estejam no mesmo diretório ou conforme a estrutura original para que o jogo funcione corretamente.
+2. Localize o arquivo executável (`main.exe`).
+3. **Importante:** Não delete nenhum arquivo quando for baixar e testar o jogo
 4. Dê um clique duplo no executável e divirta-se!
 
 ---
@@ -77,8 +75,5 @@ pip install pygame
 
 ---
 
-**Desenvolvido por:** Robinson - Projeto Uninter.
+**Desenvolvido por:** Robinson Francisco Silva de Mesquita - Projeto Uninter.
 
----
-
-Você gostaria que eu adicionasse mais algum detalhe específico sobre as regras do jogo ou talvez uma seção de "créditos" com o seu RU?
